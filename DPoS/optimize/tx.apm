@@ -1,0 +1,13 @@
+Model
+  Variables
+    p1 = 0.5
+    
+  End Variables
+
+  Equations
+    p1^(1/2)*53.0894 >= 2*9+1
+    p1^(1/2)*1.3080e+03 >= 1
+
+    minimize  p1
+  End Equations
+End Model

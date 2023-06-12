@@ -1,0 +1,4 @@
+https://in.mathworks.com/help/optim/solver-based-nonlinear-optimization.html
+https://in.mathworks.com/help/optim/ug/fmincon.html
+
+https://www.youtube.com/watch?v=_Il7GQdL3Sk

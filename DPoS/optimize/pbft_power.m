@@ -1,0 +1,10 @@
+fun = @(p)p(1)+p(2);
+A = [];
+b = [];
+Aeq = [];
+beq = [];
+lb = [0,0];
+ub = [1.1715,11.7152];
+nonlcon = @txpower;
+p0 = [0.5,0.5];
+p = fmincon(fun,p0,A,b,Aeq,beq,lb,ub,nonlcon)
